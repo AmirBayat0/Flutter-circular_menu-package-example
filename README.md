@@ -1,4 +1,4 @@
-# An example about circular_menu package example
+# An example about circular_menu package in Flutter
 ## Preview
 ![Untitled Project](https://user-images.githubusercontent.com/91388754/155949524-70c3f8cf-b4d7-4fd1-ae86-2cdb81baddc9.gif)
 
